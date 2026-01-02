@@ -7,7 +7,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>simple-app</artifactId>
-  <version>1.1</version>
+  <version>release</version>
   <packaging>jar</packaging>
 
   <name>Simple App</name>
